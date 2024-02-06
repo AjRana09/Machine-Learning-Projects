@@ -1,1 +1,0 @@
-This project successfully addresses the classification of drugs based on patient features using a mixed Naive Bayes classifier. The model demonstrates good accuracy on both the cross-validation and test datasets. The serialized objects can be used for deployment in real-world applications.
